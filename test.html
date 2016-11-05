@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Substitution Solver - www.guballa.de</title>
+<base href="https://www.guballa.de/" />
+<meta name="robots" content="index,follow" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="generator" content="Contao Open Source CMS" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=0.2, maximum-scale=5.0" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu%7CSource+Sans+Pro%7CPT+Sans" />
+<link type="text/css" rel="stylesheet" href="files/themes/Jens_Winter/crypto/crypto.css" />
+<link type="text/css" rel="stylesheet" href="assets/css/4a826f2bf937.css" />
+<link type="text/css" rel="stylesheet" href="assets/css/Glyphs.css" media="(max-width: 768px)" />
+<script type="text/javascript" src="assets/js/971f2652fa47.js"></script>
+</head>
+<body id="top" class="unknown other ">
+<div id="wrapper">
+<div id="header">
+<div class="inside">
+<!-- indexer::stop -->
+<div class="mod_navigation block" id="smartmenu">
+<a href="substitution-solver#skipNavigation95" class="invisible">Navigation überspringen</a>
+<input id="main-menu-state" type="checkbox" />
+<label class="main-menu-btn" for="main-menu-state">
+<span class="main-menu-btn-icon"></span>
+<span class="menu">Menü</span>
+</label>
+<ul id="main-menu" class="level_1 sm sm-clean">
+<li class="submenu first"><a href="startseite" title="Startseite" class="submenu first">Startseite</a><ul class="level_2">
+<li class="first"><a href="impressum" title="Impressum" class="first">Impressum</a></li>
+<li><a href="datenschutz" title="Datenschutz">Datenschutz</a></li>
+<li class="last"><a href="sitemap" title="Sitemap" class="last">Sitemap</a></li>
+</ul></li>
+<li class="submenu"><a href="schach" title="Schach" class="submenu">Schach</a><ul class="level_2">
+<li class="first"><a href="retro" title="Retro" class="first">Retro</a></li>
+<li class="submenu"><a href="schachschnipsel" title="Schachschnipsel" class="submenu">Schachschnipsel</a><ul class="level_3">
+<li class="first"><a href="zentrumskombi" title="Zentrumskombi" class="first">Zentrumskombi</a></li>
+<li class="last"><a href="lose-festung" title="Lose Festung" class="last">Lose Festung</a></li>
+</ul></li>
+<li class="submenu"><a href="veroeffentlichungen" title="Veröffentlichungen" class="submenu">Veröffentlichungen</a><ul class="level_3">
+<li class="first"><a href="pfadfinder-retros" title="&quot;Pfadfinder&quot; Retros" class="first">"Pfadfinder" Retros</a></li>
+<li><a href="id-1-beweispartie-in-75-zuegen" title="1 - Beweispartie in 7,5 Zügen">1 - Beweispartie in 7,5 Zügen</a></li>
+<li><a href="id-2-beweispartie-in-genau-95-zuegen" title="2 - Beweispartie in genau 9,5 Zügen">2 - Beweispartie in genau 9,5 Zügen</a></li>
+<li><a href="id-3-beweispartie-in-100-zuegen" title="3 - Beweispartie in 10,0 Zügen">3 - Beweispartie in 10,0 Zügen</a></li>
+<li><a href="id-4-beweispartie-in-145-zuegen" title="4 - Beweispartie in 14,5 Zügen">4 - Beweispartie in 14,5 Zügen</a></li>
+<li><a href="id-5-beweispartie-in-150-zuegen" title="5 - Beweispartie in 15,0 Zügen">5 - Beweispartie in 15,0 Zügen</a></li>
+<li class="last"><a href="id-6-beweispartie-in-70-zuegen" title="6 - Beweispartie in 7,0 Zügen" class="last">6 - Beweispartie in 7,0 Zügen</a></li>
+</ul></li>
+<li class="last"><a href="links" title="Links" class="last">Links</a></li>
+</ul></li>
+<li class="submenu trail"><a href="geocaching" title="Geocaching" class="submenu trail">Geocaching</a><ul class="level_2">
+<li class="sibling first"><a href="verwaltung-der-caches" title="Verwaltung der Caches" class="sibling first">Verwaltung der Caches</a></li>
+<li class="sibling"><a href="vigenere-solver" title="Vigenere Solver" class="sibling">Vigenere Solver</a></li>
+<li class="active"><a href="substitution-solver" title="Substitution Solver" class="active">Substitution Solver</a></li>
+<li class="submenu sibling last"><a href="plausibaer" title="Plausibär" class="submenu sibling last">Plausibär</a><ul class="level_3">
+<li class="first"><a href="plausibaer-beispiel-1" title="Plausibär - Beispiel 1" class="first">Plausibär - Beispiel 1</a></li>
+<li><a href="plausibaer-beispiel-2" title="Plausibär - Beispiel 2">Plausibär - Beispiel 2</a></li>
+<li class="last"><a href="plausibaer-beispiel-3" title="Plausibär - Beispiel 3" class="last">Plausibär - Beispiel 3</a></li>
+</ul></li>
+</ul></li>
+<li class="submenu"><a href="bits-bytes" title="Bits &amp; Bytes" class="submenu">Bits & Bytes</a><ul class="level_2">
+<li class="first"><a href="linux-distributionen" title="Linux Distributionen" class="first">Linux Distributionen</a></li>
+<li><a href="ein-xpath-basierter-gpx-filter" title="Ein XPath-basierter GPX-Filter">Ein XPath-basierter GPX-Filter</a></li>
+<li class="last"><a href="implementierung-eines-vigenere-solvers" title="Implementierung eines Vigenere-Solvers" class="last">Implementierung eines Vigenere-Solvers</a></li>
+</ul></li>
+<li class="submenu"><a href="gallerie" title="Galerie" class="submenu">Galerie</a><ul class="level_2">
+<li class="first"><a href="landschaften" title="Landschaften" class="first">Landschaften</a></li>
+<li><a href="tiere" title="Tiere">Tiere</a></li>
+<li class="last"><a href="sehenswertes" title="Sehenswertes" class="last">Sehenswertes</a></li>
+</ul></li>
+<li class="submenu last"><a href="neuigkeiten" title="Neuigkeiten" class="submenu last">Neuigkeiten</a><ul class="level_2">
+<li class="first last"><a href="neuigkeiten-archiv" title="Neuigkeiten - Archiv" class="first last">Neuigkeiten - Archiv</a></li>
+</ul></li>
+</ul>
+<a id="skipNavigation95" class="invisible">&nbsp;</a>
+</div>
+<!-- indexer::continue -->
+<div id="logo">
+<img src="files/themes/Jens_Winter/guballa_complete2.png" alt="www.guballa.de" />
+</div>            </div>
+</div>
+<div id="container">
+<div id="main">
+<div class="inside">
+<div class="mod_article first last block" id="substitution-solver">
+<div class="ce_text first last block">
+<h1>Substitution Solver</h1>
+<p>This tool solves <a href="http://en.wikipedia.org/wiki/Substitution_cipher" onclick="return !window.open(this.href)">monoalphabetic substitution ciphers</a>, also known as <a href="http://en.wikipedia.org/wiki/Cryptogram" onclick="return !window.open(this.href)">cryptograms</a>. These are ciphers where each letter of the clear text is replaced by a corresponding letter of the cipher alphabet.</p>
+<p>As an example here is an English cryptogram this tool can solve:</p>
+<pre>Rbo rpktigo vcrb bwucja wj kloj hcjd, km sktpqo, cq rbwr loklgo 
+vcgg cjqcqr kj skhcja wgkja wjd rpycja rk ltr rbcjaq cj cr.
+-- Roppy Lpwrsborr
+</pre>
+<p>If you want to break a <a href="http://en.wikipedia.org/wiki/Polyalphabetic_cipher" onclick="return !window.open(this.href)">polyalphabetic cipher</a> instead try the <a href="vigenere-solver">Vigenère Solver</a>.</p>
+<p><form name="breaker" action="https://www.guballa.de/substitution-solver" method="post"  accept-charset="UTF-8">
+<div class="vig_outer">
+<h3>Input</h3>
+<div class="vig_inner">
+<input type="hidden" name="button" value="">
+<input type="hidden" name="REQUEST_TOKEN" value="f397cee8db1ffe46ade3e490bd7a28bb" />
+<p>Cipher Text:
+ <textarea cols="60" rows="12" id="cipher" name="cipher">MLDMSKBKDNNHTSVSMIUTQTMSURKSNMXNBTALIDDQNKLSZKATONLNRSLVEDSNKTJJLSHBMHCDBNNKQJDLKTRKLDJKLKJESKCVMNHJBOKKTTDNNTDMLNQKVDKJSLLRQMSTLSLMTKDBSSETEJSNYNNKJDIKKDTQUJRMKSDQCHQYMRLNNUQNDBNVDJSMKSTEKKQTDLLKNFQMCSSDLKNKLTSSQJMUMZTMQCBMONTKTMNDDTLBLVLLNMTCCZSNQUNMQRSDDMSQDKLJKCDINEGDMKKMBDDIMXRKSDLN</textarea></p>
+<p>Language: <select name="lang">
+<option value="de">German</option>
+<option value="en" selected>English</option>
+<option value="es">Spanish</option>
+</select></p>
+<p><input type="submit" name="break" value="Break Cipher"> &nbsp; &nbsp;
+<input type="button" value="Clear Cipher Text" onClick="document.getElementById('cipher').value = '';"></p>
+</div>
+</div>
+</form>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="left">
+<div class="inside">
+<!-- indexer::stop -->
+<div class="mod_navigation block">
+<a href="substitution-solver#skipNavigation96" class="invisible">Navigation überspringen</a>
+<h2>>> Geocaching</h2>
+<ul class="level_1">
+<li class="sibling first"><a href="verwaltung-der-caches" title="Verwaltung der Caches" class="sibling first">Verwaltung der Caches</a></li>
+<li class="sibling"><a href="vigenere-solver" title="Vigenere Solver" class="sibling">Vigenere Solver</a></li>
+<li class="active"><span class="active">Substitution Solver</span></li>
+<li class="submenu sibling last"><a href="plausibaer" title="Plausibär" class="submenu sibling last" aria-haspopup="true">Plausibär</a>
+<ul class="level_2">
+<li class="first"><a href="plausibaer-beispiel-1" title="Plausibär - Beispiel 1" class="first">Plausibär - Beispiel 1</a></li>
+<li><a href="plausibaer-beispiel-2" title="Plausibär - Beispiel 2">Plausibär - Beispiel 2</a></li>
+<li class="last"><a href="plausibaer-beispiel-3" title="Plausibär - Beispiel 3" class="last">Plausibär - Beispiel 3</a></li>
+</ul>
+</li>
+</ul>
+<a id="skipNavigation96" class="invisible">&nbsp;</a>
+</div>
+<!-- indexer::continue -->
+<!-- indexer::stop -->
+<div class="mod_newslist block">
+<h2>Was gibt's Neues?</h2>
+<div class="layout_latest arc_4 block first even">
+<p class="info">2016-10-05 21:04  </p>
+<h2><a href="neuigkeiten-lesen/items/speeding-up-the-vigenere-solver" title="Den Artikel lesen: Speeding up the Vigenere Solver">Speeding up the Vigenere Solver</a></h2>
+<div class="teaser">
+<p>As the Vigenère Solver gains more and more popularity it was time for a some face lifting behind the scenes. The speed has been improved significantly.</p>  </div>
+<p class="more"><a href="neuigkeiten-lesen/items/speeding-up-the-vigenere-solver" title="Den Artikel lesen: Speeding up the Vigenere Solver">Weiterlesen …<span class="invisible"> Speeding up the Vigenere Solver</span></a></p>
+</div>
+<div class="layout_latest arc_4 block odd">
+<p class="info">2016-03-25 18:02  </p>
+<h2><a href="neuigkeiten-lesen/items/neues-design-24" title="Den Artikel lesen: Neues Design">Neues Design</a></h2>
+<div class="teaser">
+<p>Alter Inhalt, neues Design. Mit der Navigation war ich nicht richtig zufrieden, und nachdem ich etwas über "Hover Tunnels" erfahren hatte, war klar: etwas Neues muss her. Die Umsetzung hat allerdings doch einige Zeit in Anspruch genommen, dies ist hauptsächlich der Unterstützung älterer Browser geschuldet.</p>  </div>
+<p class="more"><a href="neuigkeiten-lesen/items/neues-design-24" title="Den Artikel lesen: Neues Design">Weiterlesen …<span class="invisible"> Neues Design</span></a></p>
+</div>
+<div class="layout_latest arc_4 block last even">
+<p class="info">2016-01-14 22:29  </p>
+<h2><a href="neuigkeiten-lesen/items/responsive-web-design" title="Den Artikel lesen: Responsive Web Design">Responsive Web Design</a></h2>
+<div class="teaser">
+<p>Eigentlich überfällig, aber erst jetzt bin ich dazu gekommen, die Seite für Mobil-Endgeräte benutzerfreundlicher zu machen.</p>  </div>
+<p class="more"><a href="neuigkeiten-lesen/items/responsive-web-design" title="Den Artikel lesen: Responsive Web Design">Weiterlesen …<span class="invisible"> Responsive Web Design</span></a></p>
+</div>
+</div>
+<!-- indexer::continue -->
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="inside">
+<div class="left"><a href="https://www.guballa.de/substitution-solver#top">Top ↑</a></div>
+<div class="right"><a href="https://www.guballa.de/substitution-solver#top">Top ↑</a></div>
+<div class="center"><div class="ce_text first last block">
+<p style="text-align: center;">© 2015 Jens Guballa | <a href="impressum">Impressum</a> | <a title="Datenschutzerklärung" href="datenschutz">Datenschutz</a> | <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#x72;&#x40;&#x67;&#x75;&#x62;&#x61;&#108;&#x6C;&#97;&#46;&#x64;&#101;">Webmaster</a> | <a href="login">Login</a></p>
+</div>
+</div>            </div>
+</div>
+</div>
+<script type="text/javascript" src="composer/vendor/drmonty/smartmenus/js/jquery.smartmenus.min.js"></script>
+<script type="text/javascript">(function($){$(document).ready(function(){$('#main-menu').smartmenus({subMenusSubOffsetX:3,subMenusSubOffsetY:-5,showOnClick:!1,hideOnClick:!0,noMouseOver:!0,keepHighlighted:!0,markCurrentItem:!0,markCurrentTree:!0,});$('#left .mod_navigation').hide()})})(jQuery)</script>
+<script type="text/javascript" src="assets/mootools/mediabox/1.4.6/js/mediabox.js"></script>
+<script type="text/javascript">(function($){window.addEvent('domready',function(){$$('a[rel^=lightbox]').mediabox({},null,function(el){var rel0=this.rel.replace(/[[]|]/gi,' ');var relsize=rel0.split(' ');return(this==el)||((this.rel.length>8)&&el.rel.match(relsize[1]))});$('mbImage').addEvent('swipe',function(e){(e.direction=='left')?$('mbNextLink').fireEvent('click'):$('mbPrevLink').fireEvent('click')})})})(document.id)</script>
+<script type="text/javascript">setTimeout(function(){var e=function(e,t){try{var n=new XMLHttpRequest}catch(r){return}n.open("GET",e,!0),n.onreadystatechange=function(){this.readyState==4&&this.status==200&&typeof t=="function"&&t(this.responseText)},n.send()},t="system/cron/cron.";e(t+"txt",function(n){parseInt(n||0)<Math.round(+(new Date)/1e3)-86400&&e(t+"php")})},5e3)</script>
+<!-- Piwik -->
+<script type="text/javascript">var _paq=_paq||[];_paq.push(["setDomains",["*.guballa.de","*.www.guballa.de"]]);_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function(){var u="//piwik.guballa.de/";_paq.push(['setTrackerUrl',u+'piwik.php']);_paq.push(['setSiteId','1']);var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.type='text/javascript';g.async=!0;g.defer=!0;g.src=u+'piwik.js';s.parentNode.insertBefore(g,s)})()</script>
+<noscript><p><img src="//piwik.guballa.de/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

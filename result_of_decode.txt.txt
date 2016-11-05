@@ -1,0 +1,529 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 0                                                                  |
+|                                                                                                                                                              |
+|                  CT: AZQOAGXPZAFNQEGDQFTMFFTQEQMMZPFTQSDAGZPIQDQTADULAZFMXTQZOQFTQDQXMFUHQBAEUFUAZARQHQDKFTUZSQXEQEQQYQPBTMZFMEYMXXKHMDUMNXQ                 |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                         CEASER CIPHER                                                                        |
+|                  CT: AZQOAGXPZAFNQEGDQFTMFFTQEQMMZPFTQSDAGZPIQDQTADULAZFMXTQZOQFTQDQXMFUHQBAEUFUAZARQHQDKFTUZSQXEQEQQYQPBTMZFMEYMXXKHMDUMNXQ                 |
+|                                                                         key : A = 12                                                                         |
+|      OT: ONE COULD NOT BE SURE THAT THESE A AND THE GROUND WERE HORIZONTAL HENCE THE RELATIVE POSITION OF EVERYTHING ELSE SEEMED PHANTASM ALLY VARIABLE      |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 1                                                                  |
+|                                                                                                                                                              |
+|    CT: JYJWTBUJGLDKJUJCHUCJYJWTBUJFHDGLDKJULUXDKLGGFEJULKGRNOJWJCDGBOOJWLUXGTLUKBDLXEKHUCXWBILUXGTDPRJJAJCLKDXJGHKLUBRDXWJJULNNJUDLKTKEWBRXEKEJOGHVZCBBWF    |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                         AFFINE CIPHER                                                                        |
+|    CT: JYJWTBUJGLDKJUJCHUCJYJWTBUJFHDGLDKJULUXDKLGGFEJULKGRNOJWJCDGBOOJWLUXGTLUKBDLXEKHUCXWBILUXGTDPRJJAJCLKDXJGHKLUBRDXWJJULNNJUDLKTKEWBRXEKEJOGHVZCBBWF    |
+|                                                                      key : A = 7  B = 7                                                                      |
+|    OT: EVERYONE LISTENED AND EVERYONE WAS LISTENING STILL WHEN IT LUMBERED SLOBBERING LY INTO SIGHT AND GROPING LY SQUEEZED ITS GELATINOUS GREEN IMMENSIT    |
+|                                    Y THROUGH THE BLACK DOORWAY INTO THE TAINTED OUTSIDE AIR OF THAT POISON CITY OF MADNESS                                   |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 2                                                                  |
+|                                                                                                                                                              |
+|    CT: BKTVDSQVKJTYNQDSQSONKPPQDYYSNQDSBNYSQSNODEQYOQVYJQISTSJTLKKNVEHOKWNSUYTVEQDAYUYNEJQDSQQYHYLSQDEOEJPQSJQQDYQDEJBKAQDYETKHPQDYBNYYJPQEOGXPLSVJKAQDYP    |
+|                QSNPDSTSVSGYTQKOHSEIDEPKVJQDYPQSNPVYNYNEBDQSBSEJSJTVDSQSJSBYKHTORHQDSTASEHYTQKTKCXTYPEBJSCSJTKAEJJKOYJQPSEHKNPDSTTKJYCXSOOETYJQ               |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     MONO WITH KEY CIPHER                                                                     |
+|    CT: BKTVDSQVKJTYNQDSQSONKPPQDYYSNQDSBNYSQSNODEQYOQVYJQISTSJTLKKNVEHOKWNSUYTVEQDAYUYNEJQDSQQYHYLSQDEOEJPQSJQQDYQDEJBKAQDYETKHPQDYBNYYJPQEOGXPLSVJKAQDYP    |
+|                QSNPDSTSVSGYTQKOHSEIDEPKVJQDYPQSNPVYNYNEBDQSBSEJSJTVDSQSJSBYKHTORHQDSTASEHYTQKTKCXTYPEBJSCSJTKAEJJKOYJQPSEHKNPDSTTKJYCXSOOETYJQ               |
+|                                                                          key :SCOTTY                                                                         |
+|    OT: GOD WHAT WONDER THAT ACROSS THE EARTH A GREAT ARCHITECT WENT MAD AND POOR WILCOX RAVED WITH FEVER IN THAT TELEPATHIC INSTANT THE THING OF THE IDOL    |
+|    S THE GREEN STICKY SPAWN OF THE STARS HAD AWAKED TO CLAIM HIS OWN THE STARS WERE RIGHT AGAIN AND WHAT AN AGE OLD CULT HAD FAILED TO DO BY DESIGN A BAN    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 3                                                                  |
+|                                                                                                                                                              |
+|    CT: FPJWOYNQDDVTGLZDLSGSMTHDUSMRRRFSATKAGMIDHSPVDBDBYINCHNRWCEEETEITRCUYMNWHRPZTKAYAVTHRFACIOSGSITKEZENOQRLSATKAGGCAUNRPNHRRRXCAWWNWIOWOSIVRWHGLZTLTNR    |
+|    OHLNTJMOPTUINTDRFWGAYEEIYAQDTMWBHRRHGINECSGYSHRQZCXRFMIGWHRJGEHIAKNHLPBJJDBSFIPSWHRRWOODRVOHDNGLZSWOEMZDFYPPJPVGEIVTFTUYGHXSYMYGUENWDLBIAXJTKEJEOEUAAH    |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                      Vigener KEY CIPHER                                                                      |
+|    CT: FPJWOYNQDDVTGLZDLSGSMTHDUSMRRRFSATKAGMIDHSPVDBDBYINCHNRWCEEETEITRCUYMNWHRPZTKAYAVTHRFACIOSGSITKEZENOQRLSATKAGGCAUNRPNHRRRXCAWWNWIOWOSIVRWHGLZTLTNR    |
+|    OHLNTJMOPTUINTDRFWGAYEEIYAQDTMWBHRRHGINECSGYSHRQZCXRFMIGWHRJGEHIAKNHLPBJJDBSFIPSWHRRWOODRVOHDNGLZSWOEMZDFYPPJPVGEIVTFTUYGHXSYMYGUENWDLBIAXJTKEJEOEUAAH    |
+|                                                                          key :NEVADA                                                                         |
+|    OT: SLOWLY AMIDST THE DISTORTED HORRORS OF THAT INDESCRIBABLE SCENES HE BEGAN TO CHURN THE LETHAL WATERS WHILST ON THE MASONRY OF THAT CHAR NEL SHORE     |
+|    THAT WAS NOT OF EARTH THE TITAN THING FROM THE STARS SLAVERED AND GIBBERED LIKE POLYP HEME CURSING THE FLEEING SHIP OF ODYSSEUS THEN BOLDER THAN THE S    |
+|                TORIED CYCLOPS GREAT CTHULHU SLID GR EASILY INTO THE WATER AND BEGAN TO PURSUE WITH VAST WAVE RAISING STROKES OF COSMIC POTENCY               |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 4                                                                  |
+|                                                                                                                                                              |
+|    CT: TRNTBTFFGDOTITMSHTLHIOFAMENHGIESAHYENAONAHAEHOTOTABIAFODNEVFTNHUWTRDNEDTIDIIFHILAJOODWFHAIGROANXSOOLAMOECDASRDGXAHDITARLBNTTTTOXLAENTTHAYOEBHAUXLN    |
+|                                        DTETIUHTAOEKTXASOHNEMGITFLREOXFEVEDRSHSRTDENFXTNECESEISYEFASHXEORADOLNITRLCOIX                                        |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: TRNTBTFFGDOTITMSHTLHIOFAMENHGIESAHYENAONAHAEHOTOTABIAFODNEVFTNHUWTRDNEDTIDIIFHILAJOODWFHAIGROANXSOOLAMOECDASRDGXAHDITARLBNTTTTOXLAENTTHAYOEBHAUXLN    |
+|                                        DTETIUHTAOEKTXASOHNEMGITFLREOXFEVEDRSHSRTDENFXTNECESEISYEFASHXEORADOLNITRLCOIX                                        |
+|                       key : M = 14 |  N = 16 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]                       |
+|    OT: THAT WAS ALL AFTER THAT JOHANSEN ONLY BROODED OVER THE IDOL IN THE CABIN AND ATTENDED TO A FEW MATTERS OF FOOD FOR HIMSELF AND THE LAUGHING MANIAC    |
+|              BY HIS SIDE HE DID NOT TRY TO NAVIGATE AFTER THE FIRST BOLD FLIGHT FOR THE REACTION HAD TAKEN SOMETHING OUT OF HIS SOUL XXXX XXXX X             |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: TRNTBTFFGDOTITMSHTLHIOFAMENHGIESAHYENAONAHAEHOTOTABIAFODNEVFTNHUWTRDNEDTIDIIFHILAJOODWFHAIGROANXSOOLAMOECDASRDGXAHDITARLBNTTTTOXLAENTTHAYOEBHAUXLN    |
+|                                        DTETIUHTAOEKTXASOHNEMGITFLREOXFEVEDRSHSRTDENFXTNECESEISYEFASHXEORADOLNITRLCOIX                                        |
+|                        key : M = 16 |  N = 14 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]                        |
+|    OT: THAT WAS ALL AFTER THAT JOHANSEN ONLY BROODED OVER THE IDOL IN THE CABIN AND ATTENDED TO A FEW MATTERS OF FOOD FOR HIMSELF AND THE LAUGHING MANIAC    |
+|              BY HIS SIDE HE DID NOT TRY TO NAVIGATE AFTER THE FIRST BOLD FLIGHT FOR THE REACTION HAD TAKEN SOMETHING OUT OF HIS SOUL XXXX XXXX X             |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 6                                                                  |
+|                                                                                                                                                              |
+|    CT: HEUISIHDOSSSEBKPIISTDETNNWOIIYADBIIDUTDEEAONODFBEATRIRRLBWNAUAOSIEHSOITAFAENGLEISEOZCOHLASERERIHENAWTSRERIAAETKGLSNDMWEMINRNLPENEHLREYOSFPRMGALCLN    |
+|            IHVTIDMRKARCOILSREHLNNWTISESABEHTVUCGSYEPOLTWHSNIEIALSTLECUCOBSEEPTLOHBFHDDORNLPCSYNTOSYIAACTTNMRELPHTNEADUHTCRYWTNRASLNHBTPMOHOTLIVNY            |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                        SOLVING IN PIPE                                                                       |
+|                                                                    Cipher 1: CompleteTable                                                                   |
+|                                                                    Cipher 2: CompleteTable                                                                   |
+|    CT: HEUISIHDOSSSEBKPIISTDETNNWOIIYADBIIDUTDEEAONODFBEATRIRRLBWNAUAOSIEHSOITAFAENGLEISEOZCOHLASERERIHENAWTSRERIAAETKGLSNDMWEMINRNLPENEHLREYOSFPRMGALCLN    |
+|            IHVTIDMRKARCOILSREHLNNWTISESABEHTVUCGSYEPOLTWHSNIEIALSTLECUCOBSEEPTLOHBFHDDORNLPCSYNTOSYIAACTTNMRELPHTNEADUHTCRYWTNRASLNHBTPMOHOTLIVNY            |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HDKEIDOABSTLCRAILMEYGHKSWBGTICEFLOTPUTHOEOPTYUNTWIAEOEWASINOAVARTESWAUPHPSTHHNBTUSINATORNEFIHRTANNESLTREIHYHLCTDCYNTTRTLISINDDDIAHASLISEDRHFCICHST    |
+|            ESSOLDSIMNCAPISSSWBEFRUSEEAHRTMNLPLDOLEVPNTBOOYARERSMVIETOIEBRAONOSEEKWLRRNMINSUOILSHRNAEAYLONHBDIIAELOIGZENRGEPEMIRLNACLEEEBNTCLDWNHY            |
+|                               key : M = 10 |  N = 28 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                               |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HDKEIDOABSTLCRAILMEYGHKSWBGTICEFLOTPUTHOEOPTYUNTWIAEOEWASINOAVARTESWAUPHPSTHHNBTUSINATORNEFIHRTANNESLTREIHYHLCTDCYNTTRTLISINDDDIAHASLISEDRHFCICHST    |
+|            ESSOLDSIMNCAPISSSWBEFRUSEEAHRTMNLPLDOLEVPNTBOOYARERSMVIETOIEBRAONOSEEKWLRRNMINSUOILSHRNAEAYLONHBDIIAELOIGZENRGEPEMIRLNACLEEEBNTCLDWNHY            |
+|                                key : M = 28 |  N = 10 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                                |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|    key : M = 7 |  N = 40 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,     |
+|    OT: HD KEI DOABS TLC RAIL MEY GH KSW BG TICE F LOT PUT HOE OPT YUN TWI A E OE WAS IN O AVAR TES WAU PHP S TH HN BTU S IN A TORNE FI HRT ANNES LT REI H    |
+|    Y HL C TD CYN TT RTL IS IN DDD I A HAS LISE DR HFC ICH S TES SOLD SIM N CAP IS SSW BE FRU SEE A HRT M NLP L DOLE VPN T BOO YAR ERS M VIET OIE BRA ONO     |
+|                              SEE KW LR RN MINS U OILS HR NAE A YL ON HB D II A ELO IG ZEN RG EP EMIR L NACL EEE B NT CL DW N HY                              |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HDKEIDOABSTLCRAILMEYGHKSWBGTICEFLOTPUTHOEOPTYUNTWIAEOEWASINOAVARTESWAUPHPSTHHNBTUSINATORNEFIHRTANNESLTREIHYHLCTDCYNTTRTLISINDDDIAHASLISEDRHFCICHST    |
+|            ESSOLDSIMNCAPISSSWBEFRUSEEAHRTMNLPLDOLEVPNTBOOYARERSMVIETOIEBRAONOSEEKWLRRNMINSUOILSHRNAEAYLONHBDIIAELOIGZENRGEPEMIRLNACLEEEBNTCLDWNHY            |
+|                               key : M = 10 |  N = 28 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                               |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HDKEIDOABSTLCRAILMEYGHKSWBGTICEFLOTPUTHOEOPTYUNTWIAEOEWASINOAVARTESWAUPHPSTHHNBTUSINATORNEFIHRTANNESLTREIHYHLCTDCYNTTRTLISINDDDIAHASLISEDRHFCICHST    |
+|            ESSOLDSIMNCAPISSSWBEFRUSEEAHRTMNLPLDOLEVPNTBOOYARERSMVIETOIEBRAONOSEEKWLRRNMINSUOILSHRNAEAYLONHBDIIAELOIGZENRGEPEMIRLNACLEEEBNTCLDWNHY            |
+|                                key : M = 28 |  N = 10 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                                |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|    key : M = 40 |  N = 7 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23    |
+|    OT: HD KEI DOABS TLC RAIL MEY GH KSW BG TICE F LOT PUT HOE OPT YUN TWI A E OE WAS IN O AVAR TES WAU PHP S TH HN BTU S IN A TORNE FI HRT ANNES LT REI H    |
+|    Y HL C TD CYN TT RTL IS IN DDD I A HAS LISE DR HFC ICH S TES SOLD SIM N CAP IS SSW BE FRU SEE A HRT M NLP L DOLE VPN T BOO YAR ERS M VIET OIE BRA ONO     |
+|                              SEE KW LR RN MINS U OILS HR NAE A YL ON HB D II A ELO IG ZEN RG EP EMIR L NACL EEE B NT CL DW N HY                              |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HIBCLGWILUEYWOSATAPHUANHNLILCTIDALDCSSSCSBUAMLETYRIIASWNSLNYHIOEEIAETWDDSRMHBCOTOUIEIVEUSNSTERNTHCYRSDHIRITOIASESHNDVBASEEOELMUSALBAINPRCECNKOTAEK    |
+|            GETHPNAWNASPTBIOFTERYTNTIDASHCELMPSFERLOPORMTBNERIOHEODEGRELLBLHEALIYSTFPOTTEAORWHHTNRIASEHDTLNISEFHSDNIWRETPLNOEVOROKRNIRANILZGMNENDY            |
+|    key : M = 7 |  N = 40 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,     |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HIBCLGWILUEYWOSATAPHUANHNLILCTIDALDCSSSCSBUAMLETYRIIASWNSLNYHIOEEIAETWDDSRMHBCOTOUIEIVEUSNSTERNTHCYRSDHIRITOIASESHNDVBASEEOELMUSALBAINPRCECNKOTAEK    |
+|            GETHPNAWNASPTBIOFTERYTNTIDASHCELMPSFERLOPORMTBNERIOHEODEGRELLBLHEALIYSTFPOTTEAORWHHTNRIASEHDTLNISEFHSDNIWRETPLNOEVOROKRNIRANILZGMNENDY            |
+|    key : M = 40 |  N = 7 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23    |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|                               key : M = 10 |  N = 28 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                               |
+|    OT: HI BC LG WIL U EY WO S A TAP HUAN HNL IL C TIDAL D CSS S CSB U AM LET YR II AS W N SL NY HIO E EIA ET WD D SRM HBC O TO U IEI VE USN STERN TH CYR     |
+|    SD HI RITO I AS ES HN DVB A SEE O ELM US ALBA IN PRC EC N KOTA EK GET HP NAW N ASP TBI OF TE RY TNT I DASH CEL MPS FER LOP OR MT BNER IO HE ODE GR ELL    |
+|                            BL HEAL IY ST F POT TEA OR WH HT N RIAS EH DTL N IS EF HS DNI W RE TPL NO EVO ROK RN IRANI LZ GM NEN DY                           |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HIBCLGWILUEYWOSATAPHUANHNLILCTIDALDCSSSCSBUAMLETYRIIASWNSLNYHIOEEIAETWDDSRMHBCOTOUIEIVEUSNSTERNTHCYRSDHIRITOIASESHNDVBASEEOELMUSALBAINPRCECNKOTAEK    |
+|            GETHPNAWNASPTBIOFTERYTNTIDASHCELMPSFERLOPORMTBNERIOHEODEGRELLBLHEALIYSTFPOTTEAORWHHTNRIASEHDTLNISEFHSDNIWRETPLNOEVOROKRNIRANILZGMNENDY            |
+|    key : M = 7 |  N = 40 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,     |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HIBCLGWILUEYWOSATAPHUANHNLILCTIDALDCSSSCSBUAMLETYRIIASWNSLNYHIOEEIAETWDDSRMHBCOTOUIEIVEUSNSTERNTHCYRSDHIRITOIASESHNDVBASEEOELMUSALBAINPRCECNKOTAEK    |
+|            GETHPNAWNASPTBIOFTERYTNTIDASHCELMPSFERLOPORMTBNERIOHEODEGRELLBLHEALIYSTFPOTTEAORWHHTNRIASEHDTLNISEFHSDNIWRETPLNOEVOROKRNIRANILZGMNENDY            |
+|    key : M = 40 |  N = 7 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23    |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|                                key : M = 28 |  N = 10 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]                                |
+|    OT: HI BC LG WIL U EY WO S A TAP HUAN HNL IL C TIDAL D CSS S CSB U AM LET YR II AS W N SL NY HIO E EIA ET WD D SRM HBC O TO U IEI VE USN STERN TH CYR     |
+|    SD HI RITO I AS ES HN DVB A SEE O ELM US ALBA IN PRC EC N KOTA EK GET HP NAW N ASP TBI OF TE RY TNT I DASH CEL MPS FER LOP OR MT BNER IO HE ODE GR ELL    |
+|                            BL HEAL IY ST F POT TEA OR WH HT N RIAS EH DTL N IS EF HS DNI W RE TPL NO EVO ROK RN IRANI LZ GM NEN DY                           |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HKIOBTCALEGKWGIELTUHEPYNWAOWSNAATSAPPTHBUIAONFHTNELRIYLTCNTTIIDDAALSDHCCSESLSMCPSSBFUEARMLLOEPTOYRRMITIBANSEWRNISOLHNEYOHDIEOGEREEILALEBTLWHDEDASL    |
+|            RIMYHSBTCFOPTOOTUTIEEAIOVREWUHSHNTSNTREIRANSTEHHCDYTRLSNDIHSIERFIHTSODINAISWERSEHTNPDLVNBOAESVEOEROOEKLRMNUISRAALNBIALIZNGPMRNCEENCDNY            |
+|            key : M = 14 |  N = 20 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]            |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HKIOBTCALEGKWGIELTUHEPYNWAOWSNAATSAPPTHBUIAONFHTNELRIYLTCNTTIIDDAALSDHCCSESLSMCPSSBFUEARMLLOEPTOYRRMITIBANSEWRNISOLHNEYOHDIEOGEREEILALEBTLWHDEDASL    |
+|            RIMYHSBTCFOPTOOTUTIEEAIOVREWUHSHNTSNTREIRANSTEHHCDYTRLSNDIHSIERFIHTSODINAISWERSEHTNPDLVNBOAESVEOEROOEKLRMNUISRAALNBIALIZNGPMRNCEENCDNY            |
+|           key : M = 20 |  N = 14 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]           |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|            key : M = 14 |  N = 20 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]            |
+|    OT: H KIO BTC A LEG KW GIE LTU HE PY NWA OW S NA AT S APP THB UIA ON FH T NEL RI Y LT CNT TII DDAA LSD H CCS ESL SMC PSS B FUE ARM LL O EP TO YR RMIT     |
+|    I BAN SEW RN IS OL HNE YOH DIE OG EREE ILA LEB TL WH DED A SLR I MY HS BTC FOP TOO TU TIE E AIO VRE WU HSH N TSN TRE IRAN S TEH HCD Y TRL S NDI H SIER    |
+|                              FI HT SO DINA IS WER SEHT NPD LV N BOA ES VE OE ROO EK LR M NU ISRA A LN BIA LIZ NG PM RNC EEN CD NY                            |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HKIOBTCALEGKWGIELTUHEPYNWAOWSNAATSAPPTHBUIAONFHTNELRIYLTCNTTIIDDAALSDHCCSESLSMCPSSBFUEARMLLOEPTOYRRMITIBANSEWRNISOLHNEYOHDIEOGEREEILALEBTLWHDEDASL    |
+|            RIMYHSBTCFOPTOOTUTIEEAIOVREWUHSHNTSNTREIRANSTEHHCDYTRLSNDIHSIERFIHTSODINAISWERSEHTNPDLVNBOAESVEOEROOEKLRMNUISRAALNBIALIZNGPMRNCEENCDNY            |
+|            key : M = 14 |  N = 20 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]            |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: HKIOBTCALEGKWGIELTUHEPYNWAOWSNAATSAPPTHBUIAONFHTNELRIYLTCNTTIIDDAALSDHCCSESLSMCPSSBFUEARMLLOEPTOYRRMITIBANSEWRNISOLHNEYOHDIEOGEREEILALEBTLWHDEDASL    |
+|            RIMYHSBTCFOPTOOTUTIEEAIOVREWUHSHNTSNTREIRANSTEHHCDYTRLSNDIHSIERFIHTSODINAISWERSEHTNPDLVNBOAESVEOEROOEKLRMNUISRAALNBIALIZNGPMRNCEENCDNY            |
+|           key : M = 20 |  N = 14 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]           |
+|    OT: HIS ACCURSED CITY IS SUNKEN ONCE MORE FOR THE VIGILANT SAILED OVER THE SPOT AFTER THE APRIL STORM BUT HIS MINISTERS ON EARTH STILL BELLOW AND PRAN    |
+|    CE AND SLAY AROUND IDOL CAPPED MONOLITHS IN LONELY PLACES HE MUST HAVE BEEN TRAPPED BY THE SINKING WHILST WITHIN HIS BLACK ABYSS OR ELSE THE WORLD WOU    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                                                                             CT:                                                                              |
+|           key : M = 20 |  N = 14 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]           |
+|    OT: H KIO BTC A LEG KW GIE LTU HE PY NWA OW S NA AT S APP THB UIA ON FH T NEL RI Y LT CNT TII DDAA LSD H CCS ESL SMC PSS B FUE ARM LL O EP TO YR RMIT     |
+|    I BAN SEW RN IS OL HNE YOH DIE OG EREE ILA LEB TL WH DED A SLR I MY HS BTC FOP TOO TU TIE E AIO VRE WU HSH N TSN TRE IRAN S TEH HCD Y TRL S NDI H SIER    |
+|                              FI HT SO DINA IS WER SEHT NPD LV N BOA ES VE OE ROO EK LR M NU ISRA A LN BIA LIZ NG PM RNC EEN CD NY                            |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER    7                                                               |
+|                                                                                                                                                              |
+|    CT: FXYTSWJSURNYXJPIAJSJXILFALWFJNPTFJJWNHDJNYNFTYAAFWHXQNXZXQRNJSYNJJXLHNDXRWYKUSBIJTGXXFJLYPXNJTQLNNHSZGJSUSWXNYRWJRSRYFXFXNYJJXSDUJRTLUNXNXXEFIFXKR    |
+|    WXJSRWTXSJRFSYYXTFTYSNFTSJJIJYHTFXWSAFYYNATYXZSNJJSXRFNGNTSNKXXUYTQKIXFLIQSWYSNYTTFSJKRXYJJNLNFLSTGSSXAJFXNRXXTSNYKFOFIWJHSXTJFMULSMTHJWYNQYFXSSRNJWNJ    |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                        SOLVING IN PIPE                                                                       |
+|                                                                       Cipher 1: Ceaser                                                                       |
+|                                                                    Cipher 2: CompleteTable                                                                   |
+|    CT: FXYTSWJSURNYXJPIAJSJXILFALWFJNPTFJJWNHDJNYNFTYAAFWHXQNXZXQRNJSYNJJXLHNDXRWYKUSBIJTGXXFJLYPXNJTQLNNHSZGJSUSWXNYRWJRSRYFXFXNYJJXSDUJRTLUNXNXXEFIFXKR    |
+|    WXJSRWTXSJRFSYYXTFTYSNFTSJJIJYHTFXWSAFYYNATYXZSNJJSXRFNGNTSNKXXUYTQKIXFLIQSWYSNYTTFSJKRXYJJNLNFLSTGSSXAJFXNRXXTSNYKFOFIWJHSXTJFMULSMTHJWYNQYFXSSRNJWNJ    |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: ASTONRENPMITSEKDVENESDGAVGRAEIKOAEERICYEITIAOTVVARCSLISUSLMIENTIEESGCIYSMRTFPNWDEOBSSAEGTKSIEOLGIICNUBENPNRSITMREMNMTASASITEESNYPEMOGPISISSZADASFM    |
+|    RSENMROSNEMANTTSOAOTNIAONEEDETCOASRNVATTIVOTSUNIEENSMAIBIONIFSSPTOLFDSAGDLNRTNITOOANEFMSTEEIGIAGNOBNNSVEASIMSSONITFAJADRECNSOEAHPGNHOCERTILTASNNMIERIE    |
+|                 key : M = 17 |  N = 18 | Way of encoding = column | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]                 |
+|    OT: AN ISMS INFORMATION SECURITY MANAGEMENT SYSTEM PROVIDES A MODEL FOR ESTABLISHING IMPLEMENTING OPERATING MONITORING REVIEWING MAINTAINING AND IMPRO    |
+|    VING THE PROTECTION OF INFORMATION ASSETS TO ACHIEVE BUSINESS OBJECTIVES BASED UPON A RISK ASSESSMENT AND THE ORGANIZATIONS RISK ACCEPTANCE LEVELS DES    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|    CT: ASTONRENPMITSEKDVENESDGAVGRAEIKOAEERICYEITIAOTVVARCSLISUSLMIENTIEESGCIYSMRTFPNWDEOBSSAEGTKSIEOLGIICNUBENPNRSITMREMNMTASASITEESNYPEMOGPISISSZADASFM    |
+|    RSENMROSNEMANTTSOAOTNIAONEEDETCOASRNVATTIVOTSUNIEENSMAIBIONIFSSPTOLFDSAGDLNRTNITOOANEFMSTEEIGIAGNOBNNSVEASIMSSONITFAJADRECNSOEAHPGNHOCERTILTASNNMIERIE    |
+|                  key : M = 18 |  N = 17 | Way of encoding = line | Password is : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]                  |
+|    OT: AN ISMS INFORMATION SECURITY MANAGEMENT SYSTEM PROVIDES A MODEL FOR ESTABLISHING IMPLEMENTING OPERATING MONITORING REVIEWING MAINTAINING AND IMPRO    |
+|    VING THE PROTECTION OF INFORMATION ASSETS TO ACHIEVE BUSINESS OBJECTIVES BASED UPON A RISK ASSESSMENT AND THE ORGANIZATIONS RISK ACCEPTANCE LEVELS DES    |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                         CEASER CIPHER                                                                        |
+|                                                                             CT:                                                                              |
+|                                                                          key : A = 5                                                                         |
+|    OT: ASTON REN PM IT SEK D VE NES D GA VGR AEI KOA E ERIC YE IT I A OTV V ARCS LIS USL MIEN TIE ES GCI Y SMRT FP NW DE OB S SAE GTK SIE OL GII C NU BE     |
+|    NP NR S IT MR EM NMT AS A SITE E SNY P EMO GP IS IS SZ ADAS FM RSEN M ROS NEMA NTT SO A OT NIA ONE ED ETC OAS RN VAT T IV OTS UNIE ENS MAI BIO NIFS SP    |
+|            TO LF DS A GDL NRT NI TOO AN EF MS TEE I GI AGNO BN NS VE A SIMS SON ITF AJA DRE CNS OE A HP GN HOC ER TILT AS N NMI ERIE RH C IHS SIG S          |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                  DECODING SENTENCE NUMBER 8                                                                  |
+|                                                                                                                                                              |
+|                       CT: MJUEYEQEQIJCDOYJYEQEIQCJYBOUIFFQFJJDXUHHDHJDAEXUIMSXDHJDJDYUJMIUQHHJHUYXQLVCVCYJUHUQRXXUVCYYHIJTQQDTFEYUESEX                       |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                        SOLVING IN PIPE                                                                       |
+|                                                                       Cipher 1: Ceaser                                                                       |
+|                                                                    Cipher 2: CompleteTable                                                                   |
+|                       CT: MJUEYEQEQIJCDOYJYEQEIQCJYBOUIFFQFJJDXUHHDHJDAEXUIMSXDHJDJDYUJMIUQHHJHUYXQLVCVCYJUHUQRXXUVCYYHIJTQQDTFEYUESEX                       |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                       CT: WTEOIOAOASTMNYITIOAOSAMTILYESPPAPTTNHERRNRTNKOHESWCHNRTNTNIETWSEARRTREIHAVFMFMITEREABHHEFMIIRSTDAANDPOIEOCOH                       |
+|                                          key : M = 3 |  N = 36 | Way of encoding = column | Password is : [0, 1, 2]                                          |
+|              OT: WHATEVER FORM INFORMATION TAKES OR THE MEANS BY WHICH THE INFORMATION IS TRANSMITTED IT ALWAYS NEEDS APPROPRIATE PROTECTION HH              |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                     COMPLETE TABLE CIPHER                                                                    |
+|                       CT: WTEOIOAOASTMNYITIOAOSAMTILYESPPAPTTNHERRNRTNKOHESWCHNRTNTNIETWSEARRTREIHAVFMFMITEREABHHEFMIIRSTDAANDPOIEOCOH                       |
+|                                           key : M = 36 |  N = 3 | Way of encoding = line | Password is : [0, 1, 2]                                           |
+|              OT: WHATEVER FORM INFORMATION TAKES OR THE MEANS BY WHICH THE INFORMATION IS TRANSMITTED IT ALWAYS NEEDS APPROPRIATE PROTECTION HH              |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                          Cipher 1:                                                                           |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                              |
+|                                                                         CEASER CIPHER                                                                        |
+|                                                                             CT:                                                                              |
+|                                                                         key : A = 16                                                                         |
+|    OT: W TEO IOA O ASTM NYI TIO AO SAM TIL YES PP APT TN HERR NRT N KO HE SW CH NRT NT NIET W SEA RR TRE IHA VF MF MITER EA BH HE FM II RST DA AND POI E     |
+|                                                                              ---                                                                             |
+|                                                                                                                                                              |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

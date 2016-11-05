@@ -1,0 +1,379 @@
+\documentclass[12pt]{article} % use larger type; default would be 10pt
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+% \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\geometry{a4paper}
+
+\usepackage{graphicx} % support the \includegraphics command and options
+\usepackage{wrapfig} % support the wrapfigure section
+
+\usepackage{hyperref} % links in \tableofcontents
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+%\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+\usepackage{tikz} % graphs
+\usepackage{pgfplots}
+\usepackage{float}
+\usepackage{amsmath}
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+ \renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+\newcommand{\bigsize}{\fontsize{35pt}{20pt}\selectfont}
+
+\usetikzlibrary{automata,positioning}
+%%% END Article customizations
+
+\title{Semestrálni práce  - IBE 2016/2017}
+\author{Jiří Kerner}
+
+\begin{document}
+
+\maketitle
+
+\section{Úloha 1}
+\subsection{ŠT}
+AZQOAGXPZAFNQEGDQFTMFFTQEQMMZPFTQSDAGZPIQDQTA
+DULAZFMXTQZOQFTQDQXMFUHQ
+BAEUFUAZARQHQDKFTUZS
+QXEQEQQYQPBTMZFMEYMXXKHMDUMNXQ
+
+\subsection{OT bez mezer}
+ONECOULDNOTBESURETHATTHESEAANDTHEGROUNDWEREHORI
+ZONTALHENCETHERELATIVEPOSITIONOFEVERYTHINGELSES
+EEMEDPHANTASMALLYVARIABLE
+\subsection{OT}
+ONE COULD NOT BE SURE THAT THESE A AND THE GROUND
+ WERE HORIZONTAL HENCE THE RELATIVE POSITION OF 
+ EVERYTHING ELSE SEEMED PHANTASMALLY VARIABLE
+\subsection{Šifra}
+Monoalfabetická šifra s posunem.
+\subsection{Klíč}
+Koeficient A použitý pro šifrování je 12.
+\subsection{Popis řešení}
+Brute force útok pomocí skriptu v Pythonu. Více v ceaser.py. Tokenizer pro rozložení věty
+na slova a následně kontrola pomocí slovníku, jestli se jedná o anglickou větu.
+
+
+
+
+
+\section{Úloha 2}
+\subsection{ŠT}
+JYJWTBUJGLDKJUJCHUCJYJWTBUJFHDGLDKJULUXDKLG
+GFEJULKGRNOJWJCDGBOOJWLUXGTLUKBDLXEKHUCXWBILUX
+GTDPRJJAJCLKDXJGHKLUBRDXWJJULNNJUDLKTKEWBRX
+EKEJOGHVZCBBWFHTLUKBKEJKHLUKJCBRKDLCJHLWBQKEHK
+IBLDBUVLKTBQNHCUJDD
+
+\subsection{OT bez mezer}
+EVERYONELISTENEDANDEVERYONEWASLISTENINGST
+ILLWHENITLUMBEREDSLOBBERINGLYINTOSIGHTANDG
+ROPINGLYSQUEEZEDITSGELATINOUSGREENIMMENSIT
+YTHROUGHTHEBLACKDOORWAYINTOTHETAINTEDOUTSI
+DEAIROFTHATPOISONCITYOFMADNESS
+\subsection{OT}
+EVERYONE LISTENED AND EVERYONE WAS LISTENING STILL
+WHEN IT LUMBERED SLOBBERINGLY INTO SIGHT AND GROPINGLY 
+SQUEEZED ITS GELATINOUS GREEN IMMENSITY THROUGH THE BLACK
+DOORWAY INTO THE TAINTED OUTSIDE AIR OF THAT
+POISON CITY OF MADNESS 
+\subsection{Šifra}
+Affiní šifra.
+\subsection{Klíč}
+Koeficient A je 7. Koeficient B je 7.
+\subsection{Popis řešení}
+Brute force útok pomocí skriptu v Pythonu. Více v monoWithKey.py. Tokenizer pro rozložení věty na slova a následně kontrola pomocí slovníku, jestli se jedná o anglickou větu.
+
+
+
+
+\section{Úloha 3}
+\subsection{ŠT}
+BKTVDSQVKJTYNQDSQSONKPPQDYYSNQDSBNY
+SQSNODEQYOQVYJQISTSJTLKKNVEHOKWNSU
+YTVEQDAYUYNEJQDSQQY
+HYLSQDEOEJPQSJQQDYQDEJBKAQDYETKHPQD
+YBNYYJPQEOGXPLSVJKAQDYPQSNPDSTSVSGY
+TQKOHSEIDEPKVJQDYP
+QSNPVYNYNEBDQSBSEJSJTVDSQSJSBYKHTOR
+HQDSTASEHYTQKTKCXTYPEBJSCSJTKAEJJKO
+YJQPSEHKNPDSTTKJYC
+XSOOETYJQ
+
+\subsection{OT bez mezer}
+GODWHATWONDERTHATACROSSTHEEARTHAGREATARCHITECTWENTMADAN
+DPOORWILCOXRAVEDWITHFEVERINTHATTELEPATHICINSTANTTHETHI
+NGOFTHEIDOLSTHEGREENSTICKYSPAWNOFTHESTARSHADAWAKEDTOCL
+AIMHISOWNTHESTARSWERERIGHTAGAINANDWHATANAGEOLDCULTHADF
+AILEDTODOBYDESIGNABANDOFINNOCENTSAILORSHADDONEBYACCIDENTN
+\subsection{OT}
+GOD WHAT WONDER THAT ACROSS THEE ART HAGR EAT ARCHITECT 
+WENT MAD AND POOR WILCOX RAVED WITH FEVER IN THAT TELEPATHIC 
+INSTANT THE THING OF THE IDOLS THE GREEN STICKY SPAWN OF THE 
+STARS HAD A WAKED TO CLAIM HIS OWN THE STARS WERE RIGHT AGAIN
+AND WHAT AN AGE OLD CULT HAD FAILED TO DO BY DESIGN A BAND OF
+INNOCENTS AIL ORS HAD DONE BY ACCIDENT
+\subsection{Šifra}
+Monoalfabetická šifra s heslem.
+\subsection{Klíč}
+Heslo použité pro zašifrování je SCOTY.
+\subsection{Popis řešení}
+Vyřešeno pomocí slovníkového útoku naprogramovaného v Pythonu.Více v vigener.py. Kontrola provedena na stránce https://www.guballa.de/substitution-solver. 
+
+
+\section{Úloha 4}
+\subsection{ŠT}
+FPJWOYNQDDVTGLZDLSGSMTHDUSMRRRFSATKAGMIDHSPVDB
+DBYINCHNRWCEEETEITRCUYMNWHRPZTKAYAVTHRFACI
+OSGSITKEZENOQRLSATKAGGCAUNRPNHRRRXCAWWNWIOWOS
+IVRWHGLZTLTNROHLNTJMOPTUINTDRFWGAYEEIYAQDTM
+WBHRRHGINECSGYSHRQZCXRFMIGWHRJGEHIAKNHLPBJJDB
+SFIPSWHRRWOODRVOHDNGLZSWOEMZDFYPPJPVGEIVTFT
+UYGHXSYMYGUENWDLBIAXJTKEJEOEUAAHWEJAAXJPXRFYZ
+WLTUZVSWWNZZRDIFMIGVTESFEVOSGJSPIPTJTHNPC
+
+\subsection{OT bez mezer}
+SLOWLYAMIDSTTHEDISTORTEDHORRORSOFTHATINDESCRIB
+ABLESCENESHEBEGANTOCHURNTHELETHALWATERSWHILST
+ONTHEMASONRYOFTHATCHARNELSHORETHATWASNOTOFEAR
+THTHETITANTHINGFROMTHESTARSSLAVEREDANDGIBBERE
+DLIKEPOLYPHEMECURSINGTHEFLEEINGSHIPOFODYSSEUS
+THENBOLDERTHANTHESTORIEDCYCLOPSGREATCTHULHUSL
+IDGREASILYINTOTHEWATERANDBEGANTOPURSUEWITHVAS
+TWAVERAISINGSTROKESOFCOSMICPOTENCY
+\subsection{OT}
+SLOWLY AMIDST THE DISTORTED HORRORS OF THAT 
+INDESCRIBABLE SCENES HE BEGAN TO CHURN THE 
+LETHAL WATERS WHILST ON THE MASONRY OF THAT 
+CHARNEL SHORE THAT WAS NOT OF EARTH THE TITAN
+THING FROM THE STARS SLAVERED AND GIBBERED LIKE
+POLYPHEME CURSING THE FLEEING SHIP OF ODYSSEUS 
+THEN BOLDER THAN THE STORIED CYCLOPS GREAT CTHULHU 
+SLID GREASILY INTO THE WATER AND BEGAN TO PURSUE 
+WITH VAST WAVE RAISING STROKES OF COSMIC POTENCY
+\subsection{Šifra}
+Vigenérova šifra.
+\subsection{Klíč}
+Klíč použitý pro zašifrování je NEVADA.
+\subsection{Popis řešení}
+Vyřešeno pomocí slovníkového útoku naprogramovaného v Pythonu. Kontrola provedena na stránce https://www.guballa.de/vigenere-solver
+
+\section{Úloha 5}
+\subsection{ŠT}
+TRNTBTFFGDOTITMSHTLHIOFAMENHGIESAHYENAONAHAEH
+OTOTABIAFODNEVFTNHUWTRDNEDTIDIIFHILAJOODWF
+HAIGROANXSOOLAMOECDASRDGXAHDITARLBNTTTTOXLA
+ENTTHAYOEBHAUXLNDTETIUHTAOEKTXASOHNEMGITFLRE
+OXFEVEDRSHSRTDENFXTNECESEISYEFASHXEORADOLNIT
+RLCOIX
+
+\subsection{OT bez mezer}
+THATWASALLAFTERTHATJOHANSENONLYBROODEDOVE
+RTHEIDOLINTHECABINANDATTENDEDTOAFEWMATTER
+SOFFOODFORHIMSELFANDTHELAUGHINGMANIACBYHI
+SSIDEHEDIDNOTTRYTONAVIGATEAFTERTHEFIRSTBO
+LDFLIGHTFORTHEREACTIONHADTAKENSOMETHINGOU
+TOFHISSOULXXXXXXXXX
+\subsection{OT}
+THAT WAS ALL AFTER THAT JOHANSEN ONLY BROODED 
+OVER THE IDOL IN THE CABIN AND ATTENDED TO A 
+FEW MATTERS OF FOOD FOR HIMSELF AND THE LAUGHING 
+MANIAC BY HIS SIDE HE DID NOT TRY TO NAVIGATE 
+AFTER THE FIRST BOLD FLIGHT FOR THE REACTION 
+HAD TAKEN SOMETHING OUT OF HIS SOUL XXXX XXXX X
+\subsection{Šifra}
+Úplná tabulka.
+\subsection{Klíč}
+Tabulka o velikosti 14x16 a způsob zápisu při dešifrování, zapsat šifru do řádků a číst sloupce. 
+Nebo také tabulka o velikosti 16x14 a při dešifrování zapsat šifru do sloupců a číst řádky.
+\subsection{Popis řešení}
+Brute force řešení pomocí programu v Pythonu. Více completeTable.py. 
+
+
+
+\section{Úloha 6}
+\subsection{ŠT}
+TWHCNENWVAITIXIHSINEEFFOGWIAOSOFESTYS
+TENIDERTCOAVECOHGHAEUTADIECTHNBDEREDPR
+PEREITLTRRMTTOOAYRIETTTWHPYEPEGEATTOE
+RAOALDNTOSTALAHPOOSNLHHGICONISMNIHIP
+EGEAIHMEBETTANASDMIDNHPEIEBEEBEFTASRS
+ALTSLHEDIHEFWNWESCOHHHIENRIDERI
+
+\subsection{OT bez mezer}
+
+\subsection{OT}
+
+\subsection{Šifra}
+
+\subsection{Klíč}
+
+\subsection{Popis řešení}
+
+
+
+
+\section{Úloha 7}
+\subsection{ŠT}
+HEUISIHDOSSSEBKPIISTDETNNWOIIYADBIIDU
+TDEEAONODFBEATRIRRLBWNAUAOSIEHSOITAFA
+ENGLEISEOZCOHLASERERIHENAWTSRERIAAET
+KGLSNDMWEMINRNLPENEHLREYOSFPRMGALCLN
+IHVTIDMRKARCOILSREHLNNWTISESABEHTVUC
+GSYEPOLTWHSNIEIALSTLECUCOBSEEPTLOHBF
+HDDORNLPCSYNTOSYIAACTTNMRELPHTNEADUH
+TCRYWTNRASLNHBTPMOHOTLIVNY
+
+\subsection{OT bez mezer}
+HISACCURSEDCITYISSUNKENONCEMOREFORT
+HEVIGILANTSAILEDOVERTHESPOTAFTERTHEA
+PRILSTORMBUTHISMINISTERSONEARTHSTILL
+BELLOWANDPRANCEANDSLAYAROUNDIDOLCAPP
+EDMONOLITHSINLONELYPLACESHEMUSTHAVE
+BEENTRAPPEDBYTHESINKINGWHILSTWITHINH
+ISBLACKABYSSORELSETHEWORLDWOULDBYNOW
+BESCREAMINGWITHFRIGHTANDFRENZY
+
+\subsection{OT}
+HIS ACCURSED CITY IS SUNKEN ONCE MORE
+FOR THE VIGILANT SAILED OVER THE SPOT 
+AFTER THE APRIL STORM BUT HIS MINISTERS
+ON EARTH STILL BELLOW AND PRANCE AND 
+SLAY AROUND IDOL CAPPED MONOLITHS IN 
+LONELY PLACES HE MUST HAVE BEEN TRAPPED
+BY THE SINKING WHILST WITHIN HIS BLACK
+ABYSS OR ELSE THE WORLD WOULD BY NOW 
+BE SCREAMING WITH FRIGHT AND FRENZY
+\subsection{Šifra}
+Dvojnásobná tabulka
+\subsection{Klíč}
+Možných kombinací je několik. Například první tabulka o rozměrech 40x7 a a způsob zápisu při dešifrování, zapsat šifru do řádků a číst sloupce. Druhá tabulka pak rozměra způsob zápisu při dešifrování, zapsat šifru do řádků a číst sloupce. 
+\subsection{Popis řešení}
+Brute force řešení pomocí vlastního programu v Pythonu. Šifra v souboru completeTable.py a spojeni dvou šifer pomocí pipe.py. 
+
+
+
+\section{Úloha 8}
+\subsection{ŠT}
+FXYTSWJSURNYXJPIAJSJXILFALWFJNPTFJJW
+NHDJNYNFTYAAFWHXQNXZXQRNJSYNJJXLHND
+XRWYKUSBIJTGXXFJLYPXNJTQLNNHSZGJSUSW
+XNYRWJRSRYFXFXNYJJXSDUJRTLUNXNXXEFI
+FXKRWXJSRWTXSJRFSYYXTFTYSNFTSJJIJY
+HTFXWSAFYYNATYXZSNJJSXRFNGNTSNKXXUY
+TQKIXFLIQSWYSNYTTFSJKRXYJJNLNFLSTGS
+SXAJFXNRXXTSNYKFOFIWJHSXTJFMULSMTHJW
+YNQYFXSSRNJWNJWMHNMXXNLX
+
+\subsection{OT bez mezer}
+ANISMSINFORMATIONSECURITYMANAGEMENT
+SYSTEMPROVIDESAMODELFORESTABLISHING
+IMPLEMENTINGOPERATINGMONITORINGREVI
+EWINGMAINTAININGANDIMPROVINGTHEPROT
+ECTIONOFINFORMATIONASSETSTOACHIEVEB
+USINESSOBJECTIVESBASEDUPONARISKASSE
+SSMENTANDTHEORGANIZATIONSRISKACCEPTA
+NCELEVELSDESIGNEDTOEFFECTIVELYTREAT
+ANDMANAGERISKSSSSSSSSSSSS
+\subsection{OT}
+ANI SMS INFORMATION SECURITY MANAGEMENT
+SYSTEM PROVIDES A MODEL FOR ESTABLISHING 
+IMPLEMENTING OPERATING MONITORING REVIEWING
+MAINTAINING AND IMPROVING THE PROTECTION OF
+INFORMATION ASSETS TO ACHIEVE BUSINESS OBJECTIVES
+BASED UPON A RISK ASSESSMENT AND THE ORGANIZATIONS 
+ISK ACCEPTANCE LEVELS DESIGNED TO EFFECTIVELY TREAT
+AND MANAGE RISKS SSS SSS SSS S S
+\subsection{Šifra}
+Monoalfabetická šifra s posunem a úplná tabulka bez hesla.
+
+\subsection{Klíč}
+Koeficient A použitý pro šifrování je 5. Tabulka o velikosti 17x18 a způsob zápisu při dešifrování, zapsat šifru do řádků a číst sloupce.
+\subsection{Popis řešení}
+Brute force řešení pomocí vlastního programu v Pythonu. Viz. přiloha.
+
+
+
+\section{Úloha 9}
+\subsection{ŠT}
+MJUEYEQEQIJCDOYJYEQEIQCJYBOUIFFQFJJDXUHHDHJ
+DAEXUIMSXDHJDJDYUJMIUQHHJHUYXQLVCVCYJUHUQRXX
+UVCYYHIJTQQDTFEYUESEX
+
+
+\subsection{OT bez mezer}
+WHATEVERFORMINFORMATIONTAKESORTHEMEANSBYWHI
+CHTHEINFORMATIONISTRANSMITTEDITALWAYSNEEDS
+APPROPRIATEPROTECTIONHH
+\subsection{OT}
+WHATEVER FORM INFORMATION TAKES OR THE
+MEANS BY WHICH THE INFORMATION IS TRANSMITTED 
+IT ALWAYS NEEDS APPROPRIATE PROTECTION HH
+\subsection{Šifra}
+Monoalfabetická šifra s posunem a úplná tabulka bez hesla.
+\subsection{Klíč}
+Koeficient A použitý pro šifrování je 16. Tabulka o velikosti 3x36 a způsob zápisu při dešifrování, zapsat šifru do řádků a číst sloupce.
+\subsection{Popis řešení}
+Brute force řešení pomocí vlastního programu v Pythonu. Viz. přiloha.
+
+
+\section{Úloha 10}
+\subsection{ŠT}
+MNUSIKLJBTJJNDSBYDDNDKQKMNLCQKGILNTN
+DAVLNREBTKTSNTQNJQMLZTBCRLDMDHQMDTES
+NKSODJLSNQCUSTCTTKLZSJMXMTTXQODHKLKK
+MSSEKUHQ MDSSMTVSDKKRSSMNNNSBQ
+DCKLLLT
+JJQNKLSSQMLNDC     KKKVSBKLNMJJVTNLME
+DRY
+DSLDQCNLQMDMSBSUTLNKHDKMTQRTJIMMBTK
+LJBDNUSIBDKMRASRTCLLNDKQKSKKRNENKMM
+DMNQNDLDIKLZSJDKKHNVMDNKSLVKFNUOTTMD
+EDN
+
+\subsection{OT bez mezer}
+
+\subsection{OT}
+
+\subsection{Šifra}
+
+\subsection{Klíč}
+
+\subsection{Popis řešení}
+
+
+
+
+\end{document}
